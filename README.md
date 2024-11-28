@@ -1,6 +1,6 @@
-# 🌟 Linux Fundamentals Assignment  
+# 🌟 Linux Fundamentals: Key Commands
 
-Welcome to the **Linux Fundamentals Assignment** repository! This guide will walk you through the essential Linux commands required for file system navigation, user management, permissions, links, and package installation. Let's dive into the exciting world of Linux! 🐧
+Welcome to the **Linux Fundamentals: Key Commands** repository! This guide will walk you through the essential Linux commands required for file system navigation, user management, permissions, links, and package installation. Let's dive into the exciting world of Linux! 🐧
 
 ---
 
